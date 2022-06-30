@@ -4,7 +4,7 @@ public class ArgumentosPrograma {
 
 	public static void main(String[] args) {
 		
-		args[0] = "Wesley teste";
+		args[0] = "Wesley";
 		args[1] = "DEv Java";
 		args[2] = "007";
 		
